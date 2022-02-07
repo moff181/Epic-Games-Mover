@@ -1,0 +1,15 @@
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\bin\Release\EpicGamesMover.exe.config
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\bin\Release\EpicGamesMover.exe
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\bin\Release\EpicGamesMover.pdb
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\MainWindow.g.cs
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\App.g.cs
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover_MarkupCompile.cache
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover_MarkupCompile.lref
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\MainWindow.baml
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.g.resources
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.Properties.Resources.resources
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.csproj.GenerateResource.cache
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.exe
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.pdb
+C:\Users\Will\source\repos\EpicGamesMover\EpicGamesMover\obj\Release\EpicGamesMover.csproj.AssemblyReference.cache
